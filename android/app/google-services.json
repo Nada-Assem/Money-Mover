@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845337633041",
+    "project_id": "money-mover-2023",
+    "storage_bucket": "money-mover-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845337633041:android:a2141bdf97a2badd266cb0",
+        "android_client_info": {
+          "package_name": "com.example.fingerprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845337633041-tvnt0d8rok7ufgus5s114m85kaappq2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsA-rNM5Sz9A1bSjBv4jCaNE2MwsJ9Moc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845337633041-tvnt0d8rok7ufgus5s114m85kaappq2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
